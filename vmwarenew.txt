@@ -1,4 +1,15 @@
-
+https://101.vmware.com
+https://advocacy.vmware.com
+https://alp.vmware.com
+https://ams.vmware.com
+https://apps.vmware.com
+https://argo.vmware.com
+https://auth.vmware.com
+https://benchmarking.vmware.com
+https://benefits.vmware.com
+https://beta.vmware.com
+https://blogs.vmware.com
+https://boundless.vmware.com
 https://brandvia.vmware.com
 https://broadcast.vmware.com
 https://cal.vmware.com
